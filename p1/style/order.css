@@ -1,0 +1,28 @@
+.img-header{
+    width: 40%;
+    height: 100%;
+    margin-left: 22%;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.information{
+    width: 60%;
+    height: 100%;
+    margin-top: 60px;
+    margin-left: 10%;
+    margin-bottom: 50px;
+
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+}
+.heading1{ 
+    margin-top: 0px;
+    height: 50px; 
+    position: relative;
+    top: 90px;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
